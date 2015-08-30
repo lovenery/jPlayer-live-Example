@@ -1,6 +1,6 @@
 $(document).ready(function(){
   var stream = {
-    title: "Pinewave Radio",
+    title: "ABC Jazz",
     mp3: "http://listen.radionomy.com/abc-jazz"
   },
   ready = false;
